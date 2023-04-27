@@ -4,23 +4,18 @@
 
 
 ## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=windows&logoColor=white&color=D93A7C)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=D93A7C)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=D93A7C)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=scss3&logoColor=white&color=D93A7C)
-![](https://img.shields.io/badge/Code-JAVASCRIPT-informational?style=flat&logo=js&logoColor=white&color=D93A7C)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=D93A7C)
+<div>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+</div>
 
 ## 📈 GitHub Stats
 
 ![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikita&show_icons=true&theme=radical)
-
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
 
 ## 📫 How to reach me
 
