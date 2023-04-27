@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm a Front-end developer</h3>
+<h3 align="center" color="#d93a7c">I'm a Front-end developer</h3>
 
 
 ## 🔧 Technologies & Tools
