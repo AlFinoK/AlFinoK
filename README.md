@@ -13,24 +13,10 @@
     <h3 align="center" color="d93a7c">I'm a Front-end developer</h3>
 
 
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
 <br/>  
 
 
 ## My Skill Set  
-<table><tr "display: flex" "border-top: none"><td valign="top" width="100%" "border: none">
  
  
 <br/>  
@@ -53,16 +39,6 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%" "border: none">
-
-
-
-</td><td valign="top" width="33%" "border: none">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
@@ -74,7 +50,7 @@
 
 <div align="center">
 <a href="https://github.com/AlFinoK" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nikita-malashkin-79235a233/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -93,21 +69,17 @@
 <br/>  
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlFinoK&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div background-color="#0969da" align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlFinoK&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-
 
 ## Recent Projects  
 
 
-<br/>  
-
-
-     - Online clothing store : <a href="https://github.com/AlFinoK/marcho">https://github.com/AlFinoK/marcho</a>
-     
-     - Online furniture store : https://github.com/AlFinoK/glee
+<br/>
+     <div> Online clothing store : <a style="margin-left: 10px;" href="https://github.com/AlFinoK/marcho">https://github.com/AlFinoK/marcho</a></div>
+    <br/> 
+     <div> Online furniture store :<a href="https://github.com/AlFinoK/glee">https://github.com/AlFinoK/glee</a></div>
+     <br/>
      
      Thanks for stopping by, and I look forward to connecting with you soon!
