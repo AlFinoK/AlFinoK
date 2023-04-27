@@ -8,8 +8,8 @@
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=windows&logoColor=white&color=D93A7C)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=D93A7C)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=D93A7C)
-![](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=scss3&logoColor=white&color=D93A7C)
-![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=js&logoColor=white&color=D93A7C)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=scss3&logoColor=white&color=D93A7C)
+![](https://img.shields.io/badge/Code-JAVASCRIPT-informational?style=flat&logo=js&logoColor=white&color=D93A7C)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=D93A7C)
 
 ## 📈 GitHub Stats
