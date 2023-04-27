@@ -16,14 +16,18 @@
 
 ![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikita&show_icons=true&theme=radical)
 
+
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 ## 📫 How to reach me
 
-- Email: [youremail@example.com](nikitamalashkin73@gmail.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/nikita-malashkin-79235a233/)
-- Telegram: [https://t.me/Nikita_rudenko]
+- Email: nikitamalashkin73@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nikita-malashkin-79235a233/
+- Telegram: https://t.me/Nikita_rudenko
+
 ## 💼 Skills
 
 - Responsive Web Design
