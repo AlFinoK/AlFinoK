@@ -57,9 +57,9 @@
 
 
 <br/>
-     <div> Online clothing store : <a style="margin-left: 10px;" href="https://github.com/AlFinoK/marcho">https://github.com/AlFinoK/marcho</a></div>
+     <div> Online clothing store :    <a style="margin-left: 10px;" href="https://github.com/AlFinoK/marcho">https://github.com/AlFinoK/marcho</a></div>
     <br/> 
-     <div> Online furniture store :<a href="https://github.com/AlFinoK/glee">https://github.com/AlFinoK/glee</a></div>
+     <div> Online furniture store :    <a href="https://github.com/AlFinoK/glee">https://github.com/AlFinoK/glee</a></div>
      <br/>
      
      Thanks for stopping by, and I look forward to connecting with you soon!
