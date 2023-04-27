@@ -19,10 +19,9 @@
 
 ## 📫 How to reach me
 
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Website: [yourwebsite.com](https://yourwebsite.com)
-
+- Email: [youremail@example.com](nikitamalashkin73@gmail.com)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/nikita-malashkin-79235a233/)
+- Telegram: [https://t.me/Nikita_rudenko]
 ## 💼 Skills
 
 - Responsive Web Design
@@ -30,6 +29,8 @@
 - Web Performance Optimization
 - Accessibility
 - Git & Version Control
+- BEM methogology
+- React
 
 ## 🌱 Currently learning
 
@@ -39,7 +40,7 @@
 
 ## 💻 Recent Projects
 
-- [Project 1](https://github.com/yourproject1)
-- [Project 2](https://github.com/yourproject2)
+- [Project 1](https://github.com/AlFinoK/marcho)
+- [Project 2](https://github.com/AlFinoK/glee)
 
 Thanks for stopping by, and I look forward to connecting with you soon!
