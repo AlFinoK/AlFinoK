@@ -5,13 +5,13 @@
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue-dot-js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=windows&logoColor=white&color=#d93a7c)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=#d93a7c)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=#d93a7c)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=#d93a7c)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=#d93a7c)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=#d93a7c)
+![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue-dot-js&logoColor=white&color=#d93a7c)
 
 ## 📈 GitHub Stats
 
@@ -40,7 +40,7 @@
 
 ## 💻 Recent Projects
 
-- [Project 1](https://github.com/AlFinoK/marcho)
-- [Project 2](https://github.com/AlFinoK/glee)
+- [Online clothing store(https://github.com/AlFinoK/marcho)
+- [Online furniture store](https://github.com/AlFinoK/glee)
 
 Thanks for stopping by, and I look forward to connecting with you soon!
