@@ -41,6 +41,9 @@
 
 ## 💻 Recent Projects
 
+<div>
+  <img src="https://img.icons8.com/color/48/000000/repository.png"/>
+</div>
 - [Online clothing store(https://github.com/AlFinoK/marcho)
 - [Online furniture store](https://github.com/AlFinoK/glee)
 
