@@ -5,7 +5,7 @@
 
 
 <h1 align="center">
-      Hi there, I'm <a href="#" target="_blank">Nikita</a>
+     I'm <a href="#" target="_blank">Nikita</a>
       <img
         src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"
         height="32" />
