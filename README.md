@@ -10,7 +10,7 @@
         src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"
         height="32" />
     </h1>
-    <h3 align="center" color="d93a7c">Hi, I'm a young developer from Almaty, I'm 22 years old. I'm a junior front-end developer who's always ready to learn and improve my skills. I prefer working with React and use it in my projects. I always try to stay up-to-date with the latest trends and new technologies in the world of web development. In my free time, I love programming and learning new technologies, as well as doing sports and learning English.</h3>
+    <h3 align="center" color="d93a7c">Hi, I'm a young developer from Almaty, I'm 22 years old.</h3>
 
 
 <br/>  
