@@ -10,7 +10,7 @@
         src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"
         height="32" />
     </h1>
-    <h3 align="center" color="d93a7c">Hi, I'm a frontend developer from Almaty, I'm 22 years old.</h3>
+    <h3 align="center" color="d93a7c">Hi, I'm a frontend developer from Almaty, I'm 23 years old.</h3>
 
 
 <br/>  
