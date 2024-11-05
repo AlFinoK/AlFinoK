@@ -1,7 +1,3 @@
-<h3 align="left">My name is Nikita and I'm a frontend developer, from Kazakhstan</h3>
-
-###
-
 <img align="right" height="150" src="https://media.giphy.com/media/jIqh3ym2s7GU/giphy.gif?cid=790b7611deflhvrcjh6h8j0qhhoxcl3q5r7qaakbqk52aswd&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
